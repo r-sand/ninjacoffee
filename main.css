@@ -1,0 +1,9 @@
+/* To make the Logo bigger */
+.navbar-brand img {
+    max-height: 70px;
+}
+
+.navbar-burger {
+    width: 86px;
+    height: 86px;
+}
